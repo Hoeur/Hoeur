@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Hoeur Lihour 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building scalable and efficient applications. Here, you'll find a mix of personal projects, open-source contributions, and experiments with new technologies.
 
