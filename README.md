@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building scal
 
 ## 🔥 Tech Stack
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![React Badge](https://img.shields.io/badge/-VuewJs-61DAFB?logo=vuejs&logoColor=white)
+![React Badge](https://img.shields.io/badge/-VueJs-61DAFB?logo=vuejs&logoColor=white)
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
