@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building scal
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/-NestJs-336791?logo=nestjs&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B)
 
 
