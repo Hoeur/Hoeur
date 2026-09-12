@@ -11,11 +11,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building scal
 
 ## 🔥 Tech Stack
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![React Badge](https://img.shields.io/badge/-VueJs-61DAFB?logo=vuedotjs&logoColor=white)
+![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/-NestJs-336791?logo=nestjs&logoColor=white)
+![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B)
 
 
